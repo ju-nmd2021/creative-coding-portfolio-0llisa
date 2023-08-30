@@ -1,0 +1,9 @@
+[
+  {
+    "file": "experiments/example.js",
+    "name": "Name of your experiment",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
+    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
+    "github": "https://www.github.com/pixelkind"
+  }
+]
