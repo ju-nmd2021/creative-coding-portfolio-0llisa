@@ -1,8 +1,7 @@
 {
   "file": "experiments/experiments/expAestheticsThird210923.js",
   "name": "bloody snickers",
-  "description": "Explains the what and the why. What is the main idea? What is the purpose?
-The idea is to generate random width and spacing for strokes/rectangles. Canvas generates random spacing and Strokeweight of lines itself. The puporse is to procceed an aesthethic self-recreating system.",
+  "description": "The idea is to generate random width and spacing for strokes/rectangles. Canvas generates random spacing and Strokeweight of lines itself. The puporse is to procceed an aesthethic self-recreating system.",
   "background": "The work relates to "Generative Art" lecture and is aimed to repead loops, random and e.t.c",
   "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-0llisa/blob/main/experiments/experiments/expAestheticsThird210923.js"
 }
