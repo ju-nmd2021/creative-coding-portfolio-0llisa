@@ -38,6 +38,12 @@ function goToExperiment(index) {
   p5script.defer = true;
   bodyElement.appendChild(p5script);
 
+  const toneScript = document.createElement("script");
+  toneScript.type = "text/javascript";
+  toneScript.src = "https://unpkg.com/tone";
+  toneScript.defer = true;
+  bodyElement.appendChild(toneScript);
+
   const codeScript = document.createElement("script");
   codeScript.type = "text/javascript";
   codeScript.src = experiment.file;
@@ -51,7 +57,6 @@ function goToExperiment(index) {
 
   iframe.srcdoc = bodyElement.innerHTML;
   p5container.appendChild(iframe);
-  iframe.style.zIndex = "-100";
 
   nameText.innerText = experiment.name;
   descriptionText.innerText = experiment.description;
