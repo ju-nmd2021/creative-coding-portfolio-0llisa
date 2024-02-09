@@ -1,7 +1,0 @@
-{
-  "file": "experiments/expMovements140923.js",
-  "name": "Shapes to train past material and training with velocity and accleeration",
-  "description": "This experiment was designed to revise outdated study material and introduce new material. The concept was to make two different kinds of forms, two classes, gradient colors, background changes when ellipes collides with screen",
-  "background": "The work relates back to the complexity lecture,more specifically the one that introduces velocity, acceleration, and stimulates to use classes for two different figures to set distinctive constants.",
-  "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-0llisa/new/main/experiments/experiments"
-}
