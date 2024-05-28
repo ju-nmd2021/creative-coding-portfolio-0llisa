@@ -1,9 +1,51 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "file": "experiments/particles.js",
+    "name": "Shapes to train past material",
+    "description": "The objective was to generate a collection of particles that simulate molecules, which would then navigate a flow field.",
+    "background": "The project is focused on the Perlin Noise and the Comlexity lectures of creative coding. It aims to explore various topics, such as the concept of velocity, randomness, and the generation of particle movements on a digital screen.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/experimentMovements140923.js",
+    "name": "Shapes to train past material and training with velocity and accleeration",
+    "description": "This experiment was designed to revise outdated study material and introduce new material. The concept was to make two different kinds of forms, two classes, gradient colors, background changes when ellipes collides with screen.",
+    "background": "The work relates back to the complexity lecture,more specifically the one that introduces velocity, acceleration, and stimulates to use classes for two different figures to set distinctive constants.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/expAesthetics210923.js",
+    "name": "Puddles and pebbles",
+    "description": "I conducted research on the randomness condition of ellipses and lines. The objective was to utilize simple shapes to highlight a random location on the map. Consequently, this led to the creation of a visually pleasing abstract composition that is unique and evokes the image of pebbles skipping across the water.",
+    "background": "The system described here pertains to the concept of a visually appealing artwork that is continuously renewed by the system itself. It specifically relates to the introductory lecture of the Creative Coding Course.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/perlinNoise.js",
+    "name": "Irish Bay",
+    "description": "The goal was to utilize the PerlinNoise function to conduct particle experiments and generate a drawing aspect within a circular trajectory.",
+    "background": "The project is focused on the Perlin Noise and the Comlexity lectures of creative coding. It aims to explore various topics, such as the concept of randomness, Perlin noise, and the generation of particle movements on a digital screen.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/expAestheticsSecond210923.js",
+    "name": "Colourful puddles and pebbles-2",
+    "description": "I conducted research on the randomness condition of ellipses and lines. The objective was to utilize simple shapes to highlight a random location on the map. Consequently, this led to the creation of a visually pleasing abstract composition that is unique and evokes the image of pebbles skipping across the water.",
+    "background": "The system described here pertains to the concept of a visually appealing artwork that is continuously renewed by the system itself. It specifically relates to the introductory lecture of the Creative Coding Course.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/expAestheticsThird210923.js",
+    "name": "Bloody snickers",
+    "description": "The idea is to generate random width and spacing for strokes/rectangles. Canvas generates random spacing and Strokeweight of lines itself. The puporse is to procceed an aesthethic self-recreating system.",
+    "background": "The project is focused on the initial lectures of creative coding course and aims to cover topics such as repeating loops, randomness, and more.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
+  },
+  {
+    "file": "experiments/expLab3noise.js",
+    "name": "Transformations of ellipses",
+    "description": "A p5.js sketch that generates an abstract composition of ellipses on a canvas. The sketch utilizes the concepts of randomness and noise to create dynamic variations in the size and position of the ellipses. ",
+    "background": "The main idea is to use simple shapes and random transformations to create a visually pleasing and unique composition.",
+    "github": "https://www.github.com//ju-nmd2021/creative-coding-portfolio-0llisa.git"
   }
 ]

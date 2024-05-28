@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+body {
+  margin: 0px auto;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 4rem 1fr 0.2fr;
+  grid-template-areas:
+    "header"
+    "."
+    "information";
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: auto;
+  font-weight: 600;
+}
+
+#name {
+  margin-bottom: 0.8rem;
+}
+p {
+  margin: 0.4rem 0 1rem 0;
+}
+
+#p5container {
+  grid-row: 1 / 4;
+  grid-column: 1 / 2;
+  background-color: white;
+  z-index: -100;
+}
+
+header {
+  align-self: center;
+  padding: 1em;
+  grid-area: header;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  padding: 1em;
+  grid-area: information;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+main section {
+  flex-grow: 10;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  padding: 2em;
+  cursor: pointer;
+}
+
+a,
+a:visited {
+  color: white;
+}
